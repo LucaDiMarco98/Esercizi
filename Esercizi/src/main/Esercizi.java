@@ -11,7 +11,7 @@ public class Esercizi {
 		Scanner scanner = new Scanner(System.in);
 		
 		//esercizio numero 1
-		System.out.println("inserisci 2 numeri :");
+		System.out.println("inserisci 2 numeri se ti va:");
 		int numero1 = scanner.nextInt();
 		int numero2 = scanner.nextInt();
 		int somma = numero1+numero2;
